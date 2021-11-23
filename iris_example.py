@@ -59,7 +59,7 @@ def update_plot(fig_old, selection):
             selection -- the points to be highlighted
 
     RETURN:
-            the plot with pudated selection
+            the plot with updated selection
     
     """
 
