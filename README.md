@@ -24,4 +24,4 @@ To get intended behaviour
     4. use this mapping to get only the group indices which correspond to the absolute indices
     5. update the group dictionary with the new values
     
-pass to go.Figure()/return
+pass to go.Figure(), return
